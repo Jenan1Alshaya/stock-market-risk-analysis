@@ -1,0 +1,11 @@
+﻿company_name,total_return_pct,sharpe_ratio,annualized_volatility_pct,max_drawdown_pct,stock_performance_score,score_rank
+Tesla,20301.76,1.15,55.31,-60.63,78.3,1
+Amazon,996.86,1.29,30.11,-34.1,46,2
+Apple,624.88,1.12,29.03,-38.52,43.8,3
+Microsoft,730.1,1.26,26.96,-28.04,43.1,4
+Netflix,1124.79,1.08,41.13,-44.18,41.2,5
+Google,459.85,1.06,26.49,-30.79,39.3,6
+Facebook,337.14,0.83,31.52,-42.96,37.1,7
+Zoom,193.24,0.92,68.23,-68.01,35.9,8
+Walmart,94.46,0.55,21.35,-36.44,30.7,9
+Uber,2.14,0.3,58.84,-68.05,24,10
